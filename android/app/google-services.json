@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "660486375155",
+    "firebase_url": "https://icatprojectplantirrigation-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "icatprojectplantirrigation",
+    "storage_bucket": "icatprojectplantirrigation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660486375155:android:ae6e7a8ecfde0984c15986",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjGZFjAc72TZBSMH4Bejway3tFvpfImgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660486375155:android:572838cbcf9c5d60c15986",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjGZFjAc72TZBSMH4Bejway3tFvpfImgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
